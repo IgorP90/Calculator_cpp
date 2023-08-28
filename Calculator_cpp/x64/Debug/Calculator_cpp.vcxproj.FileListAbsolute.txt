@@ -1,0 +1,2 @@
+E:\MyVisualStudio\Calculator_cpp\Calculator_cpp\x64\Debug\Calculator_cpp.vcxproj.AssemblyReference.cache
+E:\MyVisualStudio\Calculator_cpp\Calculator_cpp\x64\Debug\Calculator_cpp.vcxproj.SuggestedBindingRedirects.cache
